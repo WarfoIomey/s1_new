@@ -1,0 +1,8 @@
+esp8266.c:7:19:esp8266_CheckRespond	16	static
+esp8266.c:22:19:esp8266_TransmitCmd	32	static
+esp8266.c:74:19:esp8266_initHard	8	static
+esp8266.c:79:19:esp8266_offHard	8	static
+esp8266.c:84:19:esp8266_HardwareReset	24	static
+esp8266.c:121:19:esp8266_ConnectAP	16	static
+esp8266.c:137:19:esp8266_ConnectServer	16	static
+esp8266.c:152:19:esp8266_SetUpTCPConnection	16	static

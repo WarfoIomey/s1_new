@@ -1,0 +1,5 @@
+mqttclient.c:8:5:mqtt_transport_sendPacketBuffer	16	static
+mqttclient.c:19:5:mqtt_transport_getdata	16	static
+mqttclient.c:33:5:mqtt_transport_open	16	static
+mqttclient.c:38:5:mqtt_transport_close	16	static
+mqttclient.c:42:9:mqtt_ConnectServer	104	static
